@@ -74,6 +74,7 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
+<img width="720" height="773" alt="Screenshot 2026-01-24 131403" src="https://github.com/user-attachments/assets/2d000013-4ab0-4b01-a0a9-c4f0fcf642a6" />
 
 
 
